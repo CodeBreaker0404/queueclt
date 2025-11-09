@@ -230,3 +230,15 @@ Here are the results in order:
 ![Result 10](results/10.png)
 
 
+video link- "https://drive.google.com/uc?id=1Jc336HJLD5U3Of45-lw3SBr5hBZEhA2K&export=download"
+
+## CLI Demo Video
+
+Watch the working CLI demo [here](https://drive.google.com/uc?id=1Jc336HJLD5U3Of45-lw3SBr5hBZEhA2K&export=download).
+
+<video width="600" controls>
+  <source src="https://drive.google.com/file/d/1Jc336HJLD5U3Of45-lw3SBr5hBZEhA2K/view?usp=sharing" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
